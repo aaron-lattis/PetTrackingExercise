@@ -1,0 +1,37 @@
+﻿@model IEnumerable<PetTracking.Models.PetOwner>
+
+<div class="text-center">
+    <h1 class="display-4">Add new pet</h1>
+
+    <hr />
+</div>
+
+<br />
+
+<div>
+    <form method="post">
+
+        Pet name: <input type="text" name="PetName" class="form-control" required pattern="[A-Za-z]+" title="Only letters are allowed"><br />
+        Pet age: <input type="number" name="PetAge" class="form-control" required pattern="[0-9]+" title="Only numbers are allowed"><br />
+        Pet type: <select type="text" name="PetType" class="form-control" required>
+
+            <option value="Dog">Dog</option>
+            <option value="Cat">Cat</option>
+            <option value="Other">Other</option>
+        </select><br />
+
+        Pet owner: <select type="number" name="OwnerId" class="form-control" id="Owner" required>
+
+            @foreach (var owner in Model)
+            {
+                <option value="@owner.Id">@owner.FirstName @owner.LastName</option>
+            }
+
+        </select><br />
+
+        <button type="submit" class="btn btn-outline-dark">Submit</button>
+
+        <a class="btn btn-outline-dark" asp-area="" asp-controller="Pet" asp-action="PetList">Cancel</a>
+    </form>
+</div>
+

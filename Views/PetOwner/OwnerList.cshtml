@@ -1,0 +1,74 @@
+﻿@model IEnumerable<PetTracking.Models.PetOwner>
+
+<div class="text-center">
+    <h1 class="display-4">Pet owners</h1>
+
+    <h4>
+        <a class="btn btn-light" asp-area="" asp-controller="PetOwner" asp-action="AddPetOwner">Add a new pet owner</a>
+    </h4>
+
+    <hr />
+
+    <form method="post" style="text-align:center" id="thisForm">
+        <div class="container" style="text-align:center">
+            <div style="text-align:center">
+                <div class="col-xs-8 col-xs-offset-2" style="text-align:center">
+                    <div class="input-group" style="text-align:center">
+                        <input type="text" class="form-control" name="search" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-outline-dark" type="submit" form="thisForm">Search</button>
+                            @*<a class="btn btn-outline-dark" asp-area="" asp-controller="PetOwner" asp-action="OwnerList">Clear</a>*@
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <br />
+
+</div>
+
+<table class="table table-striped" style="text-align:center">
+
+    <thead>
+        <tr>
+            <th>First Name
+                @*<form method="post">
+                    <input type="hidden" name="order" value="1">
+                    <input type="hidden" name="first" value="@Model.First().Id">
+                    <input type="hidden" name="last" value="@Model.Last().Id">
+                    <button type="submit" style="color:black; background:white; border:none;"><b>First name</b></button>
+                </form>*@
+            </th>
+            <th>Last name</th>
+            <th>Number of pets
+                @*<form method="post">
+                    <input type="hidden" name="order" value="2">
+                    <input type="hidden" name="first" value="@Model.First().Pets.Count">
+                    <input type="hidden" name="last" value="@Model.Last().Pets.Count">
+                    <button type="submit" style="color:black; background:white; border:none;"><b>Number of pets</b></button>
+                </form>*@
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var owner in Model)
+        {
+            <tr>
+                <td><a class="nav-link text-dark" asp-area="" asp-controller="PetOwner" asp-action="OwnerDetails" asp-route-id="@owner.Id">@owner.FirstName</a></td>
+                <td>@owner.LastName</td>
+                <td>@owner.Pets.Count</td>
+
+            </tr>
+        }
+
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+
+</table>
+

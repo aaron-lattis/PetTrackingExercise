@@ -1,0 +1,41 @@
+﻿@model PetOwner
+
+<div class="text-center">
+    <h1 class="display-4">@Model.FirstName @Model.LastName</h1>
+
+    <h4>
+        <a class="btn btn-light" asp-area="" asp-controller="PetOwner" asp-action="EditOwner" asp-route-id="@Model.Id">Edit @Model.FirstName</a>
+
+        <a class="btn btn-light" asp-area="" asp-controller="PetOwner" asp-action="DeleteOwner" asp-route-id="@Model.Id">Delete @Model.FirstName</a>
+    </h4>
+
+    <hr />
+</div>
+
+@if (Model.Pets.Count == 0)
+{
+    <p class="text-center" style="font-size:24px"> @Model.FirstName @Model.LastName is not associated with any pets! </p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var pet in Model.Pets)
+            {
+                <tr>
+                    <td><a class="nav-link text-dark" asp-area="" asp-controller="Pet" asp-action="PetDetails" asp-route-id="@pet.Id">@pet.PetName</a></td>
+                    <td>@pet.PetAge</td>
+                    <td>@pet.PetType</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

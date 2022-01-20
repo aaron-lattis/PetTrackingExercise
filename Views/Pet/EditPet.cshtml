@@ -1,0 +1,31 @@
+﻿
+@model Pet
+
+<div class="text-center">
+    <h1 class="display-4">Edit @Model.PetName</h1>
+
+
+    <hr />
+</div>
+
+
+
+<div>
+    <form method="post">
+
+        Name: <input type="text" name="PetName" class="form-control" required pattern="[A-Za-z]+" title="Only letters are allowed" value="@Model.PetName"><br />
+        Age: <input type="number" name="PetAge" class="form-control" required pattern="[0-9]+" title="Only letters are allowed" value="@Model.PetAge"><br />
+        Pet type: <select type="text" name="PetType" class="form-control" required value="@Model.PetType">
+
+            <option value="Dog">Dog</option>
+            <option value="Cat">Cat</option>
+            <option value="Other">Other</option>
+        </select><br />
+        <input type="hidden" name="id" value="@Model.Id">
+        <input type="hidden" name="OwnerId" value="@Model.OwnerId">
+
+        <button type="submit" class="btn btn-outline-dark">Submit</button>
+
+        <a class="btn btn-outline-dark" asp-area="" asp-controller="Pet" asp-action="PetDetails" asp-route-id="@Model.Id">Cancel</a>
+    </form>
+</div>

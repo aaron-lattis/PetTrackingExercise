@@ -1,0 +1,40 @@
+﻿@model Pet
+
+
+<div class="text-center">
+    <h1 class="display-4">@Model.PetName</h1>
+
+    <h4>
+        <a class="btn btn-light" asp-area="" asp-controller="Pet" asp-action="EditPet" asp-route-id="@Model.Id">Edit @Model.PetName</a>
+
+        <a class="btn btn-light" asp-area="" asp-controller="Pet" asp-action="DeletePet" asp-route-id="@Model.Id">Delete @Model.PetName</a>
+    </h4>
+
+    <hr />
+</div>
+
+<p style="align-content:center">
+    <div style="text-align:center">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">@Model.PetName's owner is <a asp-area="" asp-controller="PetOwner" asp-action="OwnerDetails" asp-route-id="@Model.Owner.Id">@Model.Owner.FirstName @Model.Owner.LastName</a></li>
+            <li class="list-group-item">@Model.PetName's age is @Model.PetAge</li>
+            <li class="list-group-item">@Model.PetName's type is @Model.PetType</li>
+        </ul>
+    </div>
+
+    <br />
+
+    <div style="align-items:center; justify-content:center; text-align:center">
+        @if (Model.UploadedFile != null)
+        {
+        <img src="data:image;base64,@System.Convert.ToBase64String(Model.UploadedFile)"
+             style="text-align:center; width: 50%;
+             height: auto; object-fit:contain" />
+        }
+        else
+        {
+            <a class="btn btn-outline-dark" asp-area="" asp-controller="Pet" asp-action="AddPhoto" asp-route-id="@Model.Id">Add photo</a>
+        }
+    </div>
+</p>
+<br />

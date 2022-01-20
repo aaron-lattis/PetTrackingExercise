@@ -1,0 +1,21 @@
+﻿
+
+<div class="text-center">
+    <h1 class="display-4">Add new pet owner</h1>
+
+    <hr />
+</div>
+
+<br />
+
+<div>
+    <form method="post">
+
+        First name: <input type="text" name="firstName" class="form-control" required pattern="[A-Za-z]+" title="Only letters are allowed"><br />
+        Last Name: <input type="text" name="lastName" class="form-control" required pattern="[A-Za-z]+" title="Only letters are allowed"><br />
+
+        <button type="submit" class="btn btn-outline-dark">Submit</button>
+
+        <a class="btn btn-outline-dark" asp-area="" asp-controller="PetOwner" asp-action="OwnerList">Cancel</a>
+    </form>
+</div>

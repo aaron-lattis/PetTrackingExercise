@@ -1,0 +1,30 @@
+﻿@model Pet
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Add a photo of @Model.PetName</h1>
+
+
+    <hr />
+</div>
+
+
+<br />
+
+<form enctype="multipart/form-data" method="post">
+    <div class="form-group" style="text-align:center">
+        <label class="file">
+            <input type="file" name="photo" aria-label="File browser example">
+            <input type="hidden" name="petId" value="@Model.Id">
+            <span class="file-custom"></span>
+        </label>
+        <input asp-page-handler="Upload" class="btn btn-primary" type="submit" value="Upload">
+    </div>
+</form>
+
+    @{
+        if (ViewData["SuccessMessage"] != null)
+        {
+            <span class="badge badge-success"> @ViewData["SuccessMessage"]</span> }
+    }

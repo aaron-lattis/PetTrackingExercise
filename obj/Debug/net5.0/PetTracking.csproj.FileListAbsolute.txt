@@ -1,0 +1,570 @@
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\appsettings.json
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.exe
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.deps.json
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.runtimeconfig.json
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.runtimeconfig.dev.json
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ref\PetTracking.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.Views.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.csprojAssemblyReference.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.AssemblyInfoInputs.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.AssemblyInfo.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.csproj.CoreCompileInputs.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.Manifest.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.xml
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\scopedcss\bundle\PetTracking.styles.css
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.TagHelpers.input.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.TagHelpers.output.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.RazorCoreGenerate.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.dll
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\ref\PetTracking.dll
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.genruntimeconfig.cache
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.csproj.CopyComplete
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerDetails.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerList.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\PetDetails.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\PetList.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Humanizer.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\PetOwner\AddPetOwner.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\AddPet.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\PetOwner\EditOwner.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\PetOwner\DeleteOwner.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\DeletePet.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\EditPet.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\PetTracking.StaticWebAssets.xml
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\obj\Debug\net5.0\Razor\Views\Pet\AddPhoto.cshtml.g.cs
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Web.Helpers.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\WebMatrix.Data.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\WebMatrix.WebData.dll
+C:\Users\AaronLattis\Desktop\PetTracking\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\appsettings.json
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.StaticWebAssets.xml
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.exe
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.deps.json
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.runtimeconfig.json
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.runtimeconfig.dev.json
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ref\PetTracking.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.Views.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Web.Helpers.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\WebMatrix.Data.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\WebMatrix.WebData.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.csproj.AssemblyReference.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.AssemblyInfo.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.Manifest.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.xml
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\scopedcss\bundle\PetTracking.styles.css
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.TagHelpers.input.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.TagHelpers.output.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.RazorCoreGenerate.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\PetOwner\AddPetOwner.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\PetOwner\DeleteOwner.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\PetOwner\EditOwner.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerDetails.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerList.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\AddPet.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\AddPhoto.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\DeletePet.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\EditPet.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\PetDetails.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Pet\PetList.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cache
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cs
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.csproj.CopyComplete
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\ref\PetTracking.dll
+C:\Users\aaron\Desktop\eBlu-exercices\completed-exercises\completed-exercises\PetTracking\PetTracking-realFix\obj\Debug\net5.0\PetTracking.genruntimeconfig.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\appsettings.json
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.StaticWebAssets.xml
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.exe
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.deps.json
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.runtimeconfig.json
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.runtimeconfig.dev.json
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ref\PetTracking.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.Views.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Web.Helpers.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\WebMatrix.Data.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\WebMatrix.WebData.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.csproj.AssemblyReference.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.AssemblyInfoInputs.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.AssemblyInfo.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.RazorAssemblyInfo.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.Manifest.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\staticwebassets\PetTracking.StaticWebAssets.xml
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\scopedcss\bundle\PetTracking.styles.css
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.TagHelpers.input.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.TagHelpers.output.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.RazorCoreGenerate.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\PetOwner\AddPetOwner.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\PetOwner\DeleteOwner.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\PetOwner\EditOwner.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerDetails.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\PetOwner\OwnerList.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\AddPet.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\AddPhoto.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\DeletePet.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\EditPet.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\PetDetails.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Pet\PetList.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cache
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.RazorTargetAssemblyInfo.cs
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.Views.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.csproj.CopyComplete
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\ref\PetTracking.dll
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.pdb
+C:\Users\aaron\Downloads\things\Minutes\Turn in\eBlu_PetTrackingExercise-main (3)\eBlu_PetTrackingExercise-main\obj\Debug\net5.0\PetTracking.genruntimeconfig.cache

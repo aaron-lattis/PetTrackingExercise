@@ -1,0 +1,24 @@
+﻿@model PetOwner
+
+<div class="text-center">
+    <h1 class="display-4">Delete @Model.FirstName @Model.LastName</h1>
+
+
+    <hr />
+</div>
+
+<p class="text-center" style="font-size:24px"> Are you sure you want to delete @Model.FirstName @Model.LastName?</p>
+
+
+<div style="text-align:center">
+    <form method="post">
+
+        <input type="hidden" name="id" value="@Model.Id">
+
+        <button type="submit" class="btn btn-outline-dark">Delete</button>
+        
+        <a class="btn btn-outline-dark" asp-area="" asp-controller="PetOwner" asp-action="OwnerDetails" asp-route-id="@Model.Id">Cancel</a>
+
+    </form>
+</div>
+

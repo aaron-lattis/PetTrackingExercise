@@ -1,0 +1,63 @@
+﻿@model IEnumerable<PetTracking.Models.Pet>
+
+<div class="text-center">
+    <h1 class="display-4">Pets</h1>
+
+    <h4>
+        <a class="btn btn-light" asp-area="" asp-controller="Pet" asp-action="AddPet">Add a new pet</a>
+    </h4>
+
+    <hr />
+
+    <form method="post" style="text-align:center" id="thisForm2">
+        <div class="container" style="text-align:center">
+            <div style="text-align:center">
+                <div class="col-xs-8 col-xs-offset-2" style="text-align:center">
+                    <div class="input-group" style="text-align:center">
+                        <input type="text" class="form-control" name="search" placeholder="Search...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-outline-dark" type="submit" form="thisForm2">Search</button>
+                            @*<a class="btn btn-outline-dark" asp-area="" asp-controller="Pet" asp-action="PetList">Clear</a>*@
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <br />
+
+
+</div>
+
+<table class="table table-striped" style="text-align:center">
+
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Type</th>
+            <th>Owner</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var pet in Model)
+        {
+        <tr>
+            <td><a class="nav-link text-dark" asp-area="" asp-controller="Pet" asp-action="PetDetails" asp-route-id="@pet.Id">@pet.PetName</a></td>
+            <td>@pet.PetAge</td>
+            <td>@pet.PetType</td>
+            <td><a class="nav-link text-dark" asp-area="" asp-controller="PetOwner" asp-action="OwnerDetails" asp-route-id="@pet.Owner.Id">@pet.Owner.FirstName @pet.Owner.LastName</a></td>
+
+        </tr>
+        }
+    </tbody>
+
+    <tfoot>
+
+    </tfoot>
+
+</table>
+
+
